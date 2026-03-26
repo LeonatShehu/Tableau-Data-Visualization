@@ -20,3 +20,10 @@ Dashboard Interaction https://github.com/LeonatShehu/Tableau-Data-Visualization/
 
 https://github.com/LeonatShehu/Tableau-Data-Visualization/blob/main/Traffic-fine-screenshot.png
 
+## Project Insight
+
+Gjilan turns out to be the region with the highest number of fines, surpassing Prizren and Ferizaj. This suggests a higher traffic volume, or more pronounced problems with respecting traffic rules. The regions with the fewest violations are Mitrovica and Prishtina.
+
+## Final Conclusion:
+
+The months with the most violations are August and September. Monthly data shows that August and September have the peak of violations. April and December have the lowest level. This is often related to the increase in traffic during the summer season, diaspora visits, greater activity on the road. The most common type of violations is the use of the phone and wrong overtaking.
