@@ -18,7 +18,7 @@ Dashboard Interaction https://github.com/LeonatShehu/Tableau-Data-Visualization/
 
 ## Dashboard
 
-https://github.com/LeonatShehu/Tableau-Data-Visualization/blob/main/Traffic-fine-screenshot.png
+<img width="1708" height="975" alt="Traffic-fine-screenshot" src="https://github.com/user-attachments/assets/155ef3ce-8558-4206-94f2-c9e250cdc2ed" />
 
 ## Project Insight
 
