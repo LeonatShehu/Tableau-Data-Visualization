@@ -6,3 +6,9 @@ The goal of the project is to look at traffic fines after the new law on traffic
 Dataset
 https://github.com/LeonatShehu/Tableau-Data-Visualization/blob/main/dataset-gjoba-trafiku-kosove.xlsx
 
+## Questions (KPIs)
+
+-Fines by region
+-Fines by month
+-Which region has the most traffic fines
+-Which traffic violations are the most common?
